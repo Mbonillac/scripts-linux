@@ -1,2 +1,2 @@
 # scripts-linux
-Repositorio para trabajos de Scripts.
+Repositorio para trabajos de Scriptsen Linux.
