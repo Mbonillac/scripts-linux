@@ -8,8 +8,9 @@ Repositorio para trabajos de Scripts en Linux, sobre Debian Buster.
 ## *Índice*:
 
     1. Scripts
-    2. Referencias
-    3. Material 
+    2. Material
+    3. Referencias
+    
 <br>
 
 ## Scripts
@@ -18,6 +19,13 @@ En este directorio podrás encontrar todos los scripts aprendidos y practicados 
 
 <br>
 <br>
+
+## Material
+
+Material para el aprendizaje de comandos en linux y de algunas de sus herramientas.
+
+    * Comandos para Linux 
+    * Comandos de vi / vim
 
 ## Referencia
 
@@ -29,12 +37,3 @@ Links a webs y videos donde podrás encontrar información y material para el ap
 <br>
 <br>
 [Promp Consola] -> https://www.youtube.com/watch?v=3VrgnnrE22c&list=PLqfeRTJ9glJSND2v4s_uAvXtnbBZo2LGI&index=5
-
-<br>
-
-## Material
-
-Material para el aprendizaje de comandos en linux y de algunas de sus herramientas.
-
-    * Comandos para Linux 
-    * Comandos de vi / vim
