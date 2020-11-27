@@ -14,9 +14,16 @@ Repositorio para trabajos de Scripts en Linux, sobre Debian Buster.
 
 ## Scripts
 
+En este directorio podrás encontrar todos los scripts aprendidos y practicados en clase.
+
+<br>
 <br>
 
-## <k>Referencia</k>
+## Referencia
+
+Links a webs y videos donde podrás encontrar información y material para el aprendizaje de linux.
+
+<br>
 
 [Linux Básico] -> https://www.youtube.com/watch?v=gmwTsbGFkr4&list=PLqfeRTJ9glJSND2v4s_uAvXtnbBZo2LGI&index=10
 <br>
@@ -25,7 +32,9 @@ Repositorio para trabajos de Scripts en Linux, sobre Debian Buster.
 
 <br>
 
-## <k>Material</k>
+## Material
+
+Material para el aprendizaje de comandos en linux y de algunas de sus herramientas.
 
     * Comandos para Linux 
     * Comandos de vi / vim
