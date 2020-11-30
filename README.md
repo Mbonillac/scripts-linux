@@ -24,8 +24,8 @@ En este directorio podrás encontrar todos los scripts aprendidos y practicados 
 
 Material para el aprendizaje de comandos en linux y de algunas de sus herramientas.
 
-    * Comandos para Linux 
-    * Comandos de vi / vim
+    * Comandos para Linux. 
+    * Comandos editores de texto Linux.
 
 ## Referencia
 
