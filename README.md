@@ -26,6 +26,8 @@ Material para el aprendizaje de comandos en linux y de algunas de sus herramient
 
     * Comandos para Linux. 
     * Comandos editores de texto Linux.
+        - Vi/Vim
+        - Nano
 
 ## Referencia
 
