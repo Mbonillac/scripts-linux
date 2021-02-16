@@ -5,25 +5,27 @@ Repositorio para trabajos de Scripts en Linux, sobre Debian Buster.
 <br>
 <br>
 
+![](/img/pino4.jpg)
+
 ## *Índice*:
 
-    1. [Scripts](https://github.com/Mbonillac/scripts-linux/tree/main/Material/ "Scripts").
-    2. Material.
-    3. Referencias.
+1. [Scripts](https://github.com/Mbonillac/scripts-linux/tree/main/Scripts)
+2. [Material](https://github.com/Mbonillac/scripts-linux/tree/main/Material)
+3. Referencias.
     
-    
+   
 <br>
 
-## Scripts
+## [Scripts
 
-En este directorio podrás encontrar todos los scripts aprendidos y practicados en clase.
+En [este directorio](https://github.com/Mbonillac/scripts-linux/tree/main/Scripts) podrás encontrar todos los scripts aprendidos y practicados en clase.
 
 <br>
 <br>
 
 ## Material
 
-Material para el aprendizaje de comandos en linux y de algunas de sus herramientas.
+En [este directorio](https://github.com/Mbonillac/scripts-linux/tree/main/Material) podrás encontrar material para el aprendizaje de comandos en linux y de algunas de sus herramientas.
 
     * Comandos para Linux. 
     * Comandos editores de texto Linux.
