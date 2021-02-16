@@ -5,8 +5,6 @@ Repositorio para trabajos de Scripts en Linux, sobre Debian Buster.
 <br>
 <br>
 
-![](/img/pino4.jpg)
-
 ## *Índice*:
 
 1. [Scripts](https://github.com/Mbonillac/scripts-linux/tree/main/Scripts)
@@ -42,3 +40,7 @@ Links a webs y videos donde podrás encontrar información y material para el ap
 <br>
 <br>
 [Promp Consola] -> https://www.youtube.com/watch?v=3VrgnnrE22c&list=PLqfeRTJ9glJSND2v4s_uAvXtnbBZo2LGI&index=5
+<br>
+<br>
+
+![pino](https://media.istockphoto.com/vectors/isolated-mediterranean-vector-umbrella-pine-icon-logo-silhouette-on-a-vector-id1271895614?k=6&m=1271895614&s=612x612&w=0&h=F18yWS6QdRXbfk1UFf8ZPV3rB2a4b8_SA0c4q5vTcFc=)
