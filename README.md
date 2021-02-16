@@ -7,11 +7,11 @@ Repositorio para trabajos de Scripts en Linux, sobre Debian Buster.
 
 ## *Índice*:
 
-    1. [scripts](Scripts)
-    2. Material
-    3. Referencias
+    1. [Scripts](https://github.com/Mbonillac/scripts-linux/tree/main/Material).
+    2. Material.
+    3. Referencias.
     
-    (scripts): https://github.com/Mbonillac/scripts-linux/tree/main/Material
+    
 <br>
 
 ## Scripts
