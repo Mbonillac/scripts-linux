@@ -10,7 +10,7 @@ Repositorio para trabajos de Scripts en Linux, sobre Debian Buster.
 1. [Scripts](https://github.com/Mbonillac/scripts-linux/tree/main/Scripts)
 2. [Material](https://github.com/Mbonillac/scripts-linux/tree/main/Material)
 3. [Resúmenes](https://github.com/Mbonillac/scripts-linux/tree/main/Resumenes)
-4. Referencias.
+4. Videos y cursos.
        
 <br>
 
@@ -59,7 +59,7 @@ En [este directorio](https://github.com/Mbonillac/scripts-linux/tree/main/Materi
 
 ## Referencia
 
-Links a webs y videos donde podrás encontrar información y material para el aprendizaje de linux.
+Cada imágen es un link a videos donde podrás encontrar información y material para el aprendizaje de linux.
 
 <br>
 
