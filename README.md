@@ -36,7 +36,7 @@ En [este directorio](https://github.com/Mbonillac/scripts-linux/tree/main/Materi
 
 ## Resúmenes
 
- En [este directorio](https://github.com/Mbonillac/scripts-linux/tree/main/Resumenes)podrás encontrar resumenes enfocados a los sistemas operativos.
+ En [este directorio](https://github.com/Mbonillac/scripts-linux/tree/main/Resumenes) podrás encontrar resumenes enfocados a los sistemas operativos.
 
 1. Parte
     - [Devops.](https://github.com/Mbonillac/scripts-linux/blob/main/Resumenes/DEVOPS.pdf)
