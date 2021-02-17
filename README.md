@@ -63,9 +63,9 @@ Aquí podrás encontrar información y material para el aprendizaje de linux.
 
 <br>
 
-### Linux Básico
+### Configuración IP estática - Sin Network-Manager - Linux Debian
 
-[![Linux Básico](https://sinergiaformacion.es/wp-content/uploads/2014/10/linux-basico1.jpg)](https://www.youtube.com/watch?v=gmwTsbGFkr4&list=PLqfeRTJ9glJSND2v4s_uAvXtnbBZo2LGI&index=10)
+[![Linux Básico](https://sinergiaformacion.es/wp-content/uploads/2014/10/linux-basico1.jpg)](https://youtu.be/rSYQQUSg2z0)
 
 <br>
 
