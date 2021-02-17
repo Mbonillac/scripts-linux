@@ -57,7 +57,7 @@ En [este directorio](https://github.com/Mbonillac/scripts-linux/tree/main/Materi
  <br>
  
 
-## Referencia
+## Videos y Cursos
 
 Cada imágen es un link a videos donde podrás encontrar información y material para el aprendizaje de linux.
 
