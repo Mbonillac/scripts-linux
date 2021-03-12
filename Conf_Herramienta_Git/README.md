@@ -1,4 +1,4 @@
-### Configuración Herramienta Git - Desde Terminal - Linux Debian
+# Configuración Herramienta Git - Desde Terminal - Linux Debian
 
 1. Crearemos un repositorio en GitHub.
 <br>
