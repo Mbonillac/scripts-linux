@@ -63,7 +63,7 @@ Aquí podrás encontrar información y material para el aprendizaje de linux.
 
 <br>
 
-### [Configuración Herramienta Git - Desde Terminal - Linux Debian](https://github.com/Mbonillac/scripts-linux/tree/main/Conf_Herramientas_Git)
+### [Configuración Herramienta Git - Desde Terminal - Linux Debian](https://github.com/Mbonillac/scripts-linux/tree/main/Conf_Herramienta_Git)
 
 <br>
 
