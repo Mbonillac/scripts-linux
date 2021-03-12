@@ -17,6 +17,7 @@
 $ git config --global user.name "Nombre_usuario_en_github"
 <br>
 <br>
+
 ![usuario](https://github.com/Mbonillac/scripts-linux/blob/main/Conf_Herramienta_Git/1-configurar_usuario-.png?raw=true)
 <br>
 <br>
@@ -25,6 +26,7 @@ $ git config --global user.name "Nombre_usuario_en_github"
 $ git config --global user.email "email@email.com"
 <br>
 <br>
+
 ![email](https://github.com/Mbonillac/scripts-linux/blob/main/Conf_Herramienta_Git/2-configurar_email-.png?raw=true)
 <br>
 <br>
@@ -33,6 +35,7 @@ $ git config --global user.email "email@email.com"
 $ git config -l
 <br>
 <br>
+
 ![config_git](https://github.com/Mbonillac/scripts-linux/blob/main/Conf_Herramienta_Git/archivo_config_git.png?raw=true)
 <br>
 <br>
@@ -41,6 +44,7 @@ $ git config -l
 $ cat .git/config (deberemos de estar dentro de la carpeta del repositorio)
 <br>
 <br>
+
 ![config_repositorio](https://github.com/Mbonillac/scripts-linux/blob/main/Conf_Herramienta_Git/archivo_config_repositorio.png?raw=true)
 <br>
 <br>
@@ -53,11 +57,13 @@ $ cat .git/config (deberemos de estar dentro de la carpeta del repositorio)
 $ git  clone https://github.com/Mbonillac/Prueba.git
 <br>
 <br>
+
 ![clonado](https://github.com/Mbonillac/scripts-linux/blob/main/Conf_Herramienta_Git/3-clonado_repositorio-.png?raw=true)
 <br>
 
 6. Preparamos la carpeta.
 <br>
+
 ![carpeta](https://github.com/Mbonillac/scripts-linux/blob/main/Conf_Herramienta_Git/4-carpeta_archivo-.png?raw=true)
 
 7. Preparamos los archivos que vamos a subir:
@@ -65,6 +71,7 @@ $ git  clone https://github.com/Mbonillac/Prueba.git
 $ git add . (con el punto estamos indicando que seleccione todos los archivos)
 <br>
 <br>
+
 ![preparado_archivos](https://github.com/Mbonillac/scripts-linux/blob/main/Conf_Herramienta_Git/6-Preparado_archivos-.png?raw=true)
 <br>
 
@@ -73,6 +80,7 @@ $ git add . (con el punto estamos indicando que seleccione todos los archivos)
 $ git commit -m "Subida de archivos"
 <br>
 <br>
+
 ![comit](https://github.com/Mbonillac/scripts-linux/blob/main/Conf_Herramienta_Git/7-commit-.png?raw=true)
 <br>
 
@@ -81,6 +89,7 @@ $ git commit -m "Subida de archivos"
 $ git push
 <br>
 <br>
+
 ![push](https://github.com/Mbonillac/scripts-linux/blob/main/Conf_Herramienta_Git/8-push-.png?raw=true)
 <br>
 
@@ -89,4 +98,5 @@ $ git push
 $ git pull
 <br>
 <br>
+
 ![pull](https://github.com/Mbonillac/scripts-linux/blob/main/Conf_Herramienta_Git/9-pull-.png?raw=true)
