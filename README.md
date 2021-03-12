@@ -74,4 +74,4 @@ Aquí podrás encontrar información y material para el aprendizaje de linux.
 
 <br>
 
-☁![sbate](https://lh3.googleusercontent.com/proxy/HDmlpB-27x04831Ut4IZppeMJiKtYuO85eWWwyXBfIgBE5KhyBIK9aX5Pduyamt46W-GReSQUIss1GExt8bfGaN2BdRVta9MigH199owTcKlriYUN0Ah4f-R9HQu)☁ 
+☁![johnny](https://github.com/Mbonillac/scripts-linux/blob/main/img/johnny.gif?raw=true)☁ 
