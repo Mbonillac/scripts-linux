@@ -1,4 +1,4 @@
-### [Configuración Herramienta Git - Desde Terminal - Linux Debian](https://github.com/Mbonillac/scripts-linux/tree/main/Conf_Herramientas_Git)
+### Configuración Herramienta Git - Desde Terminal - Linux Debian
 
 1. Crearemos un repositorio en GitHub.
 <br>
