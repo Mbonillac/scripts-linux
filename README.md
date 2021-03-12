@@ -7,23 +7,23 @@ Repositorio para trabajos de Scripts en Linux, sobre Debian Buster.
 
 ## *Índice*:
 
-1. [Scripts](https://github.com/Mbonillac/scripts-linux/tree/main/Scripts)
-2. [Material](https://github.com/Mbonillac/scripts-linux/tree/main/Material)
-3. [Resúmenes](https://github.com/Mbonillac/scripts-linux/tree/main/Resumenes)
+1. [Scripts ](#scripts)
+2. [Material](#material)
+3. [Resúmenes](#resumenes)
 4. [Linux Básico ](#linux-basico)
        
 <br>
 
 ---
 
-## 1 - Scripts -
+## 1 - Scripts - <a name="scripts"></a>
 
 En [este directorio](https://github.com/Mbonillac/scripts-linux/tree/main/Scripts) podrás encontrar todos los scripts aprendidos y practicados en clase.
 
 <br>
 <br>
 
-## 2 - Material -
+## 2 - Material - <a name="material"></a>
 
 En [este directorio](https://github.com/Mbonillac/scripts-linux/tree/main/Material) podrás encontrar material para el aprendizaje de comandos en linux y de algunas de sus herramientas.
 
@@ -34,7 +34,7 @@ En [este directorio](https://github.com/Mbonillac/scripts-linux/tree/main/Materi
 
 <br>
 
-## 3 - Resúmenes -
+## 3 - Resúmenes - <a name="resumenes"></a>
 
  En [este directorio](https://github.com/Mbonillac/scripts-linux/tree/main/Resumenes) podrás encontrar resumenes enfocados a los sistemas operativos.
 
