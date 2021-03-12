@@ -10,7 +10,7 @@ Repositorio para trabajos de Scripts en Linux, sobre Debian Buster.
 1. [Scripts](https://github.com/Mbonillac/scripts-linux/tree/main/Scripts)
 2. [Material](https://github.com/Mbonillac/scripts-linux/tree/main/Material)
 3. [Resúmenes](https://github.com/Mbonillac/scripts-linux/tree/main/Resumenes)
-4. Videos y Tutoriales
+4. <a name="linux-basico">Linux Básico.</a>
        
 <br>
 
@@ -57,7 +57,7 @@ En [este directorio](https://github.com/Mbonillac/scripts-linux/tree/main/Materi
  <br>
  
 
-## 4 - Videos y Tutoriales -
+## 4 - [Linux Básico -](#linux-basico)
 
 Aquí podrás encontrar información y material para el aprendizaje de linux.
 
