@@ -64,13 +64,16 @@ Aquí podrás encontrar información y material para el aprendizaje de linux.
 <br>
 
 ### [Configuración Herramienta Git - Desde Terminal - Linux Debian](https://github.com/Mbonillac/scripts-linux/tree/main/Conf_Herramienta_Git)
+<br>
+
+[![Linux_Básico-Herramienta-git](https://github.com/Mbonillac/scripts-linux/blob/main/img/herramienta_git.jpg?raw=true)](https://github.com/Mbonillac/scripts-linux/tree/main/Conf_Herramienta_Git)
 
 <br>
 
 ### [Configuración IP estática - Sin Network-Manager - Linux Debian](https://youtu.be/rSYQQUSg2z0)
 <br>
 
-[![Linux Básico](https://sinergiaformacion.es/wp-content/uploads/2014/10/linux-basico1.jpg)](https://youtu.be/rSYQQUSg2z0)
+[![Linux_Básico-IP-Estatica](https://github.com/Mbonillac/scripts-linux/blob/main/img/config_ip_estatica.jpg?raw=true)](https://youtu.be/rSYQQUSg2z0)
 
 <br>
 
