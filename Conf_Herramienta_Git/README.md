@@ -17,6 +17,7 @@
 $ git config --global user.name "Nombre_usuario_en_github"
 <br>
 <br>
+
 ![usuario](https://github.com/Mbonillac/scripts-linux/blob/main/Conf_Herramienta_Git/1-configurar_usuario-.png?raw=true)
 <br>
 <br>
