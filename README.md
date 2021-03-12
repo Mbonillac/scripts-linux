@@ -79,6 +79,9 @@ Aquí podrás encontrar información y material para el aprendizaje de linux.
 2. Instalamos la herramienta git como root:
 <br>
 (#) apt install git
+<br>
+
+<br>
 
 3. Configuración de GitHub mediante la herramienta git:
 <br>
@@ -86,9 +89,13 @@ Aquí podrás encontrar información y material para el aprendizaje de linux.
 <br>
 $ git config --global user.name "Nombre_usuario_en_github"
 <br>
+![usuario](https://github.com/Mbonillac/scripts-linux/blob/main/Conf_Herramienta_Git/1-configurar_usuario-.png])
+<br>
 - Configuramos el email con el cual estamos registrados en github:
 <br>
 $ git config --global user.email "email@email.com"
+<br>
+![email](https://github.com/Mbonillac/scripts-linux/blob/main/Conf_Herramienta_Git/2-configurar_email-.png)
 <br>
 - Podemos comprobar nuestra configuración:
 <br>
