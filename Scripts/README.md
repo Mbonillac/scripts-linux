@@ -12,6 +12,5 @@ Un script suele ser un archivo de texto plano, en el que se insertan las ordenes
 
 ## *Lista de Scripts*:
 
-<br>
 
 ### [- Configuración de red -](https://github.com/Mbonillac/scripts-linux/tree/main/Scripts/Config_Red) 
