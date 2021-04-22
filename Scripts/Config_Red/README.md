@@ -295,7 +295,7 @@ Vamos a utilizar nuestro script para desactivar la tarjeta de red enp0s8.
 
 Lo primero que nos muestra el script es la configuración actual de las tarjetas de red.
 
-![Imagen_Principal](https://github.com/Mbonillac/scripts-linux/blob/main/Scripts/img/Config_Red/Pantalla_Inicial.PNG?raw=true)
+![Imagen_Principal](https://github.com/Mbonillac/scripts-linux/blob/main/Scripts/Config_Red/img/Pantalla_Inicial.PNG)
 
 <br>
 
@@ -307,10 +307,10 @@ Luego el script nos pide que introduzcamos el nombre de la tarjeta.
 <br>
 Por último, tendremos que indicar el estado, indicando up para subir o en este caso down para bajarla.
 
-![Desactivar_Tarjeta](https://github.com/Mbonillac/scripts-linux/blob/main/Scripts/img/Config_Red/Desactivar_Tarjeta.PNG?raw=true)
+![Desactivar_Tarjeta](https://github.com/Mbonillac/scripts-linux/blob/main/Scripts/Config_Red/img/Desactivar_Tarjeta.PNG)
 
 <br>
 
 Cómo podemos comprobar, el script ha cambiado el estado de la tarjeta.
 
-![Resultado](https://github.com/Mbonillac/scripts-linux/blob/main/Scripts/img/Config_Red/Resultado_Desact_Tarjeta.PNG?raw=true)
+![Resultado](https://github.com/Mbonillac/scripts-linux/blob/main/Scripts/Config_Red/img/Resultado_Desact_Tarjeta.PNG)
