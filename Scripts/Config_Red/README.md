@@ -3,6 +3,7 @@
 <br>
 
 #### Nombre: Config_Red.sh
+#### [Descargar Script](https://github.com/Mbonillac/scripts-linux/raw/main/Scripts/Config_Red/Descargas/Config_Red.rar)
 
 <br>
 
@@ -19,7 +20,6 @@ Siempre con la información actualizada.
 
 Con este script podremos visualizar la configuración de red del equipo, activar y desactivar tarjetas, establecer y eliminar IP's, realizar pruebas Ping y de DNS y reiniciar los servicios de red.
 
-### [Descargar Script](https://github.com/Mbonillac/scripts-linux/raw/main/Scripts/Config_Red/Descargas/Config_Red.rar)
 
 <br>
 
