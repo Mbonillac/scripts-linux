@@ -251,9 +251,9 @@ Exportar_Informe ()
     read -p "Introducir ruta de guardado del archivo: " Ruta_Guardado
     if [ -z "$Ruta_Guardado" ]
     then
-        echo "No se estableció ruta de guardado... El archivo se guardará en la ruta por defecto /home/usuario."
+        echo "No se estableció ruta de guardado... El archivo se guardará en la ruta por defecto /$USER"
         read -p "Pulsar Intro para continuar" intro
-        cp .Archivos_Temporales/configuracion /home/"$USER"/configuracion_"$FECHA"
+        cp .Archivos_Temporales/configuracion /"$USER"/configuracion_"$FECHA"
     else
         cp .Archivos_Temporales/configuracion "$Ruta_Guardado"/configuracion_"$FECHA"
     fi
