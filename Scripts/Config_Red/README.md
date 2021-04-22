@@ -1,4 +1,4 @@
-# - Configuración de red - 
+# - Configuración de red -<a name="inicio"></a>
 
 <br>
 
@@ -318,3 +318,5 @@ Por último, tendremos que indicar el estado, indicando up para subir o en este 
 Cómo podemos comprobar, el script ha cambiado el estado de la tarjeta.
 
 ![Resultado](https://github.com/Mbonillac/scripts-linux/blob/main/Scripts/Config_Red/img/Resultado_Desact_Tarjeta.PNG)
+
+[Subir](#inicio)
