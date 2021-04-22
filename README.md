@@ -20,6 +20,8 @@ Repositorio para trabajos de Scripts en Linux, sobre Debian Buster.
 
 En [este directorio](https://github.com/Mbonillac/scripts-linux/tree/main/Scripts) podrás encontrar todos los scripts aprendidos y practicados en clase.
 
+#### [- Configuración de red -](https://github.com/Mbonillac/scripts-linux/tree/main/Scripts/Config_Red) 
+
 <br>
 <br>
 

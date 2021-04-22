@@ -74,7 +74,7 @@ Con este script podremos visualizar la configuración de red del equipo, activar
 <br>
 <br>
 
-#### Código:
+#### [Código:](https://github.com/Mbonillac/scripts-linux/blob/main/Scripts/Config_Red/Config_Red.sh)
  
  ~~~
  #!/bin/bash
