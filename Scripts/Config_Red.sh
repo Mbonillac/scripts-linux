@@ -12,6 +12,16 @@ FECHA=$(date +%d-%m-%y-%H:%M)
 
 #Funciones:
 
+#La función Usuario_Root comprueba que solo root pueda ejecutar el script.
+Usuario_Root ()
+{
+    if [ "$(whoami)" != "root" ]
+        then
+            echo "Solo root puede ejecutar este script. Por favor ejecute el script como root"
+            exit 1
+    fi
+}
+
 #La función Informe, prepara el entorno de trabajo creando la estructura de carpetas necesaria y generando los archivos.
 #Siempre con la información actualizada.
 Informe ()
@@ -170,7 +180,7 @@ Exportar_Informe ()
 
 
 #Bloque Principal:
-
+Usuario_Root
 Actualizar
 read -p "Introduzca una opción: " opcion
 while [ "$opcion" != 10 ]
