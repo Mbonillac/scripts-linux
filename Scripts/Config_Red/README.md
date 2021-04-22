@@ -19,6 +19,8 @@ Siempre con la información actualizada.
 
 Con este script podremos visualizar la configuración de red del equipo, activar y desactivar tarjetas, establecer y eliminar IP's, realizar pruebas Ping y de DNS y reiniciar los servicios de red.
 
+### [Descargar Script](https://github.com/Mbonillac/scripts-linux/raw/main/Scripts/Config_Red/Descargas/Config_Red.rar)
+
 <br>
 
  Consta de 2 partes:
@@ -285,6 +287,8 @@ echo "Fin del programa"
 echo "github.com/Mbonillac/scripts-linux"
  ~~~
 
+### [Descargar Script](https://github.com/Mbonillac/scripts-linux/raw/main/Scripts/Config_Red/Descargas/Config_Red.rar)
+
 <br>
 <br>
 
@@ -314,5 +318,3 @@ Por último, tendremos que indicar el estado, indicando up para subir o en este 
 Cómo podemos comprobar, el script ha cambiado el estado de la tarjeta.
 
 ![Resultado](https://github.com/Mbonillac/scripts-linux/blob/main/Scripts/Config_Red/img/Resultado_Desact_Tarjeta.PNG)
-
-### [Descargar Script](https://github.com/Mbonillac/scripts-linux/raw/main/Scripts/Config_Red/Descargas/Config_Red.rar)
