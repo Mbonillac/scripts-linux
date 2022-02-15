@@ -16,7 +16,7 @@ Repositorio para trabajos de Scripts en Linux, sobre Debian Buster.
 
 ---
 
-## 1 - Scrits - <a name="scripts"></a>
+## 1 - Scripts - <a name="scripts"></a>
 
 En [este directorio](https://github.com/Mbonillac/scripts-linux/tree/main/Scripts) podrás encontrar todos los scripts aprendidos y practicados en clase.
 
