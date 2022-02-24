@@ -1,4 +1,4 @@
-# Scripts en Linux para Pros
+# Scripts en Linux para Pros y para mi
 
 <br>
 Repositorio para trabajos de Scripts en Linux, sobre Debian Buster.
